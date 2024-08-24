@@ -1,6 +1,7 @@
+![logo](https://github.com/amolnichit/amolnichit/blob/main/IMG_20240824_121158.jpg)
 <h1 align="center">Hi 👋, I'm Amol Nichit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width ="400" align="center" src="https://github.com/amolnichit/amolnichit/blob/main/IMG_20240824_121158.jpg " />
+<img width ="400" align="center" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=amolnichit&label=Profile%20views&color=0e75b6&style=flat" alt="amolnichit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amolnichit" alt="amolnichit" /></a> </p>
