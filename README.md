@@ -4,7 +4,6 @@
 <img width ="400" align="center" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=amolnichit&label=Profile%20views&color=0e75b6&style=flat" alt="amolnichit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amolnichit" alt="amolnichit" /></a> </p>
 
 - 🌱 I’m currently learning **React js,Mongodb**
 
