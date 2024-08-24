@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Amol Nichit</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width =400 align="center" src= "https://github.com/amolnichit/amolnichit/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif" />
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=amolnichit&label=Profile%20views&color=0e75b6&style=flat" alt="amolnichit" /> </p>
+<img width ="500" align="center" src= "https://github.com/amolnichit/amolnichit/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif" />
+<p align="centre"> <img width ="500" src="https://komarev.com/ghpvc/?username=amolnichit&label=Profile%20views&color=0e75b6&style=flat" alt="amolnichit" /> </p>
 
 
 - 🌱 I’m currently learning **React js,Mongodb**
