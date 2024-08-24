@@ -4,7 +4,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img width ="700" align="center" src= "https://github.com/amolnichit/amolnichit/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amolnichit" alt="amolnichit" /></a> </p>
 
 
 
